@@ -1,4 +1,4 @@
-## Olá, eu sou o Guilherme Luz Ferreira, estudante de Ciência da Computação, mas pode me chamar de Gui!! 😎
+## Olá, eu sou o Guilherme Luz Ferreira, mas pode me chamar de Gui, sou estudante de Ciência da Computação!! 😎
 
 <div>
 <img height= "180em" src="https://github-readme-stats.vercel.app/api?username=guiluzz&show_icons=true&theme=dracula"/>
